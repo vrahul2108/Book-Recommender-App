@@ -58,6 +58,8 @@ To run this project, ensure you have the following installed:
    ```
 3. Interact with the recommender system by searching for books and viewing personalized recommendations.
 
+- Access the live demo here: [Book Recommender System](https://book-recommender-sys-ehct.onrender.com)
+
 ## File Structure
 ```
 Book-Recommender-App/
